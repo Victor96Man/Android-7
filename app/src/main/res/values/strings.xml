@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SetimaApp</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellidos">Apellidos:</string>
+    <string name="email">Email:</string>
+    <string name="mensaje">Mensaje:</string>
+    <string name="subemail">Subcribirse por email</string>
+    <string name="elpais">elpais.es</string>
+    <string name="loremipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum, leo eget hendrerit porttitor, erat ipsum pretium ante, a congue nisl enim sit amet nisi. Donec accumsan euismod nulla, et accumsan est faucibus vitae. Nulla vel eros at tortor pharetra rutrum. Praesent et nibh mattis nibh faucibus scelerisque.</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
